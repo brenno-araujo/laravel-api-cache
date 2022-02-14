@@ -45,7 +45,7 @@ docker-compose up -d
 
 Acessar o container
 ```sh
-docker-compose exec project_x bash
+docker-compose exec laravel_api_cache bash
 ```
 
 
